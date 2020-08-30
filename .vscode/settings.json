@@ -1,0 +1,11 @@
+{
+    "editor.quickSuggestions": 
+    {
+        "strings": false
+    },
+    "cucumberautocomplete.steps": [
+        "src/steps/*Steps.cs"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumberautocomplete.smartSnippets": true
+}
